@@ -15,7 +15,8 @@ To get started with CarHaina Authentication, follow these steps:
 ## Pictures
 
 Here are some screenshots of the CarHaina Authentication app:
-![CarHaina Authentication](https://example.com/path/to/your/image.png)
+![Gray Peach Purple Green Modern Product Launch Plan Presentation](https://github.com/FahadFarooq40/Login_Sign_Up-Screen/assets/104043766/e20da579-a6e4-493e-b7fc-a18736b7f1ff)
+
 
 For more information on Flutter development and to explore sample code, you can refer to the following resources:
 
